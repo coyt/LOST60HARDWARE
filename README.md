@@ -5,6 +5,10 @@ Hardware design files for LOST60 Bluetooth Mechanical Keyboard
 <img width="800px" src="https://github.com/coyt/LOST60HARDWARE/blob/master/pictures/keyboardUnderlighting.gif?raw=true"/>
 </p>
 
+<p align="center">
+<img width="800px" src="https://github.com/coyt/LOST60HARDWARE/blob/master/pictures/threeKeyboards.jpg?raw=true"/>
+</p>
+
 #### LOST60 PCB Version 2.0 (SPRING 2020)
 <p align="center">
 <img width="800px" src="https://github.com/coyt/LOST60/blob/master/KeyboardV2.jpg"/>
