@@ -34,6 +34,10 @@ Hardware design files for the LOST60 Bluetooth 60% Mechanical Keyboard PCB. The 
 </p>
 
 <p align="center">
+<img width="800px" src="https://github.com/coyt/LOST60HARDWARE/blob/master/pictures/LOST60V2Bottom.PNG?raw=true"/>
+</p>
+
+<p align="center">
 <img width="800px" src="https://github.com/coyt/LOST60HARDWARE/blob/master/pictures/lost60V2%20v26.png?raw=true"/>
 </p>
 
