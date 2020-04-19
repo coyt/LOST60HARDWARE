@@ -22,6 +22,18 @@ Hardware design files for LOST60 Bluetooth Mechanical Keyboard
 Hardware design files for the LOST60 Bluetooth 60% Mechanical Keyboard PCB. The PCB utilizes a Nordic Semiconductor [nrf52840 bluetooth SoC](https://www.nordicsemi.com/?sc_itemid=%7B2DC10BA5-A76E-40F8-836E-E2FC65803A71%7D) (Rigado BMD-340 module) as the sole processor.
 
 
+#### PCB Artwork
+<p align="center">
+<img width="800px" src="https://github.com/coyt/LOST60HARDWARE/blob/master/pictures/lost60eaglelayout.png?raw=true"/>
+</p>
+
+
+#### 3D Modeling
+<p align="center">
+<img width="800px" src="https://github.com/coyt/LOST60HARDWARE/blob/master/pictures/lost60v2slanted.PNG?raw=true"/>
+</p>
+
+
 #### Version 2.0 System Diagram
 
 <p align="center">
@@ -54,7 +66,3 @@ Hardware design files for the LOST60 Bluetooth 60% Mechanical Keyboard PCB. The 
 #### Development Setup
 
 This design was created using Eagle PCB for schematic capture and PCB layout and routing. Fusion 360 was used to generate CAD model of board before manufacture. 
-
-#### Credits
-
-* Key layout design based on GH60
